@@ -1,7 +1,7 @@
 # Wachira_Portfolio
 
 * ## **Data Analysis and Visualisation**
-
+ * [Thai army IO twitter data analysis](https://github.com/aaatou123/Wachira_Portfolio/tree/master/Thai%20amy%20IO%20twitter%20data%20analysis)
 * ## **Machine Learning**
 
 * ## **Natural Language Processing** 
