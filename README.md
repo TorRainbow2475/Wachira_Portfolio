@@ -1,5 +1,7 @@
 # Wachira_Portfolio
 
+* ## **Data Analysis and Visualisation**
+
 * ## **Machine Learning**
 
 * ## **Natural Language Processing** 
