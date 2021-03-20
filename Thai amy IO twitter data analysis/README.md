@@ -18,3 +18,6 @@
   * ลบข้อความเกี่ยวกับ mention, hashtags และ http ลิงค์
   * ตัดคำภาษาไทยเพื่อให้ง่ายต่อการวิเคราะห์ข้อมูล
   * ลบ Stop word ออก
+## หาคำตอบจากข้อมูล
+ 1. บัญชีผู้ใช้(User) 
+   ![](Thai amy IO twitter data analysis/image/Account_creation.png)
