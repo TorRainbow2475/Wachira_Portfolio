@@ -20,4 +20,4 @@
   * ลบ Stop word ออก
 ## หาคำตอบจากข้อมูล
  1. บัญชีผู้ใช้(User) 
-   ![](Thai amy IO twitter data analysis/image/Account_creation.png)
+![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20amy%20IO%20twitter%20data%20analysis/image/Account_creation.png)
