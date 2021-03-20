@@ -20,4 +20,5 @@
   * ลบ Stop word ออก
 ## หาคำตอบจากข้อมูล
  1. บัญชีผู้ใช้(User) 
+  * บัญชีผู้ใช้กว่า 85% ถูกสร้างขึ้นภายในระยะเวลาเพียงแค่2เดือน
 ![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20amy%20IO%20twitter%20data%20analysis/image/Account_creation.png)
