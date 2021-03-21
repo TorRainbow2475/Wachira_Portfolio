@@ -22,5 +22,5 @@
  1. บัญชีผู้ใช้(User) 
   * มีบัญชีผู้ใช้กว่า 85% ถูกสร้างขึ้นใหม่ภายในระยะเวลาเพียงแค่2เดือน
 ![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20amy%20IO%20twitter%20data%20analysis/image/Account_creation.png)
-  * บัญชีผู้ใช้โดยส่วนใหญ่จะพบว่าแต่ละบัญชีจะไม่มีผู้ติดตามเลย หรือมีผู้ติดตามเพียงเล็กน้อยเท่านั้น
+  * บัญชีผู้ใช้โดยส่วนใหญ่จะพบว่าทั้งผู้ติดตาม(Follower) และการติดตาม(Following) จะไม่มีเลยหรือจะมีเพียงเล็กน้อยเท่านั้น
 ![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20amy%20IO%20twitter%20data%20analysis/image/Follower.png)![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20amy%20IO%20twitter%20data%20analysis/image/Following.png)
