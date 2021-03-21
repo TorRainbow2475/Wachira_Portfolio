@@ -24,3 +24,6 @@
 ![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20amy%20IO%20twitter%20data%20analysis/image/Account_creation.png)
   * บัญชีผู้ใช้โดยส่วนใหญ่จะพบว่าทั้งผู้ติดตาม(Follower) และการติดตาม(Following) จะไม่มีเลยหรือจะมีเพียงเล็กน้อยเท่านั้น
 ![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20amy%20IO%20twitter%20data%20analysis/image/Follower.png)![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20amy%20IO%20twitter%20data%20analysis/image/Following.png)
+ 2. การทวีต(Tweet)
+  * การทวีตโดยส่วนใหญ่จะเห็นว่าจะเกิดขึ้นในช่วงปลายปี 2019 ถึงต้นปี 2020 ซึ่งเวาจะเกิดขึ้นใกล้เคียงกับเวลาที่บัญชีถูกสร้างขึ้น รวมถึงจำนวนการทวีตจะสัมพันธ์กับเหตุการณ์การเมืองและการหทาร ทั้งเหตุกราดยิงโคราช ยุบพรรคอนาคตใหม่ และการเกิดแฟลชม็อบ
+![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20amy%20IO%20twitter%20data%20analysis/image/Number_of_tweets.png)
