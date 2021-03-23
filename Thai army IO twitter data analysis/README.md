@@ -26,7 +26,8 @@
 ![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20army%20IO%20twitter%20data%20analysis/image/Follower.png)
 ![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20army%20IO%20twitter%20data%20analysis/image/Following.png)
 
- <ins>สรุป</ins>จากการวิเคราะห์ข้อมูลของบัญชีผู้ใช้เหล่านี้
+ <ins>สรุป</ins> จากการวิเคราะห์ข้อมูลของบัญชีผู้ใช้เหล่านี้ จะพบว่าบัญชีผู้ใช้ผู้สร้างขึ้นด้วยในเวลาไม่นานมากและถูกสร้างขึ้นในเวลาที่ใกล้เคียงกันด้วยเหตุผลบางอย่างก่อนที่จะถูกปิดไปโดยทวิตเตอร์ รวมไปถึงการที่บัญชีผู้ใช้มียอดผู้ติดตามที่น้อยจึงแสดงให้เห็นว่าบัญชีเหล่านี้เป็นบัญชีที่ใช้ในการทำงานของปฏิบัติการข้อมูลข่าวสารจริงๆ
+ 
  2. การทวีต(Tweet)
   * การทวีตโดยส่วนใหญ่จะเห็นว่าจะเกิดขึ้นในช่วงปลายปี 2019 ถึงต้นปี 2020 ซึ่งเวาจะเกิดขึ้นใกล้เคียงกับเวลาที่บัญชีถูกสร้างขึ้น รวมถึงจำนวนการทวีตจะสัมพันธ์กับเหตุการณ์การเมืองและการหทาร ทั้งเหตุกราดยิงโคราช ยุบพรรคอนาคตใหม่ และการเกิดแฟลชม็อบ
 ![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20army%20IO%20twitter%20data%20analysis/image/Number_of_tweets.png)
