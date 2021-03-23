@@ -24,8 +24,6 @@
 ![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20army%20IO%20twitter%20data%20analysis/image/Account_creation.png)
   * บัญชีผู้ใช้โดยส่วนใหญ่จะพบว่าทั้งผู้ติดตาม(Follower) และการติดตาม(Following) จะไม่มีเลยหรือจะมีเพียงเล็กน้อยเท่านั้น
 ![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20amy%20IO%20twitter%20data%20analysis/image/Follower.png) 
-![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20army%20IO%20twitter%20data%20analysis/image/Following.png)
-
 <ins>สรุป</ins>จากการวิเคราะห์ข้อมูลของบัญชีผู้ใช้เหล่านี้
 
  2. การทวีต(Tweet)
