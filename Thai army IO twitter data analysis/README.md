@@ -53,4 +53,6 @@
 
 ![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20army%20IO%20twitter%20data%20analysis/image/wordclound_tweet_text.png)![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20army%20IO%20twitter%20data%20analysis/image/tweet_text.png)
 
+จากการวิเคราะห์ข้อความจากทวีต จะเห็นว่าไม่ว่าจะจาก hashtags, mention และ Text จะเห็นว่าทุกส่วนจะมีความเกี่ยวข้องกันกองทัพทั้งหมด สิ่งที่น่าสนใจคือนอกจากจะกล่าวถึงกองทัพแล้วยังมีการพูดถึงพรรคอนาคตใหม่ และสมาชิกในพรรคอีกด้วย
+
 
