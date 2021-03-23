@@ -30,3 +30,6 @@
   * จะเห็นได้ว่าการมีส่วนร่วม(Engagement) ของแต่ละครั้งที่มีการทวีตโดยส่วนใหญ่แทบจะไม่มี Enagagement แสดงให้เห็นว่าการทวีตต่างๆเน้นที่ปริมาณเพียงอย่างเดียว
  
 ![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20amy%20IO%20twitter%20data%20analysis/image/Engagement.png)
+
+  * เวลาในการทวีตจะเห็นว่าจะหนาแน่นในช่วงเวลาราชการ ประมาณช่วงเวลา 8.30-16.30 น.ในส่วนของรายวันจะหนาแน่นในช่วงวันธรรมดาและจะเบาบางในช่วงวันเสาร์-อาทิตย์
+![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20amy%20IO%20twitter%20data%20analysis/image/official_time.png)
