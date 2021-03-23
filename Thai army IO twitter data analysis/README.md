@@ -42,5 +42,6 @@
  
  3. ข้อความการทวีต(Tweet text)
   * แฮชแท็กที่เกิดขึ้นโดยส่วนใหญ่จะเกี่ยวข้องกับกองทัพ และพรรคอนาคตใหม่
-![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20army%20IO%20twitter%20data%20analysis/image/wordclound_hashtags.png)![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20army%20IO%20twitter%20data%20analysis/image/hashtags.png)
-  * การเมนชั่นจะเห็นว่า
+![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20army%20IO%20twitter%20data%20analysis/image/wordclound_hashtags.png)
+![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20army%20IO%20twitter%20data%20analysis/image/hashtags.png)
+
