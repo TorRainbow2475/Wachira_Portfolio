@@ -39,3 +39,8 @@
 ![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20army%20IO%20twitter%20data%20analysis/image/official_time.png)
 
  <ins>สรุป</ins> จากการวิเคราะห์ข้อมูลการทวีตของบัญชีปฏิบัติการข้อมูลข่าวสาร จึงทำให้พบถึงรูปแบบการทำงานของปฏิบัติการนี้ จะเห็นได้ว่าจากการวิเคราะห์การทวีตส่วนใหญ่จะเกิดไม่นานหลังจากบัญชีผู้ใช้ถูกสร้างขึ้น ในการทวีตในช่วงเวลาที่มีการทวีตจำนวนมากจะสัมพันธ์กับเหตุการสำคัญทางการเมือง และการทวีตจะเน้นไปที่จำนวนการทวีตเป็นส่วนใหญ่โดยจะมีจำนวนEngagementน้อยมากๆ ในส่วนของช่วงเวลาในการทวีตโดยส่วนใหญ่จะเป็นเวลาราชการอาจจะคาดการณ์ได้ว่าการทำงานของปฏิบัตินี้จะเป็นระบบข้าราชการ
+ 
+ 3. ข้อความการทวีต(Tweet text)
+  * แฮชแท็กที่เกิดขึ้นโดยส่วนใหญ่จะเกี่ยวข้องกับกองทัพ และพรรคอนาคตใหม่
+![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20army%20IO%20twitter%20data%20analysis/image/wordclound_hashtags.png)![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20army%20IO%20twitter%20data%20analysis/image/hashtags.png)
+  * การเมนชั่นจะเห็นว่า
