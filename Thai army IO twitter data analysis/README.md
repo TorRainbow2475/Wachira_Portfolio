@@ -19,7 +19,7 @@
   * ตัดคำภาษาไทยเพื่อให้ง่ายต่อการวิเคราะห์ข้อมูล
   * ลบ Stop word ออก
 ## หาคำตอบจากข้อมูล
- 1. บัญชีผู้ใช้(User) 
+ 1. **บัญชีผู้ใช้(User)** 
   * มีบัญชีผู้ใช้กว่า 85% ถูกสร้างขึ้นใหม่ภายในระยะเวลาเพียงแค่2เดือน
 ![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20army%20IO%20twitter%20data%20analysis/image/Account_creation.png)
   * บัญชีผู้ใช้โดยส่วนใหญ่จะพบว่าทั้งผู้ติดตาม(Follower) และการติดตาม(Following) จะไม่มีเลยหรือจะมีเพียงเล็กน้อยเท่านั้น
@@ -28,7 +28,7 @@
 
  <ins>สรุป</ins> จากการวิเคราะห์ข้อมูลของบัญชีผู้ใช้เหล่านี้ จะพบว่าบัญชีผู้ใช้ผู้สร้างขึ้นด้วยในเวลาไม่นานมากและถูกสร้างขึ้นในเวลาที่ใกล้เคียงกันด้วยเหตุผลบางอย่างก่อนที่จะถูกปิดไปโดยทวิตเตอร์ รวมไปถึงการที่บัญชีผู้ใช้มียอดผู้ติดตามที่น้อยจึงแสดงให้เห็นว่าบัญชีเหล่านี้เป็นบัญชีที่ใช้ในการทำงานของปฏิบัติการข้อมูลข่าวสารจริงๆ
  
- 2. การทวีต(Tweet)
+ 2. **การทวีต(Tweet)**
   * การทวีตโดยส่วนใหญ่จะเห็นว่าจะเกิดขึ้นในช่วงปลายปี 2019 ถึงต้นปี 2020 ซึ่งเวาจะเกิดขึ้นใกล้เคียงกับเวลาที่บัญชีถูกสร้างขึ้น รวมถึงจำนวนการทวีตจะสัมพันธ์กับเหตุการณ์การเมืองและการหทาร ทั้งเหตุกราดยิงโคราช ยุบพรรคอนาคตใหม่ และการเกิดแฟลชม็อบ
 ![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20army%20IO%20twitter%20data%20analysis/image/Number_of_tweets.png)
   * จะเห็นได้ว่าการมีส่วนร่วม(Engagement) ของแต่ละครั้งที่มีการทวีตโดยส่วนใหญ่แทบจะไม่มี Enagagement แสดงให้เห็นว่าการทวีตต่างๆเน้นที่ปริมาณเพียงอย่างเดียว
@@ -40,7 +40,7 @@
 
  <ins>สรุป</ins> จากการวิเคราะห์ข้อมูลการทวีตของบัญชีปฏิบัติการข้อมูลข่าวสาร จึงทำให้พบถึงรูปแบบการทำงานของปฏิบัติการนี้ จะเห็นได้ว่าจากการวิเคราะห์การทวีตส่วนใหญ่จะเกิดไม่นานหลังจากบัญชีผู้ใช้ถูกสร้างขึ้น ในการทวีตในช่วงเวลาที่มีการทวีตจำนวนมากจะสัมพันธ์กับเหตุการสำคัญทางการเมือง และการทวีตจะเน้นไปที่จำนวนการทวีตเป็นส่วนใหญ่โดยจะมีจำนวนEngagementน้อยมากๆ ในส่วนของช่วงเวลาในการทวีตโดยส่วนใหญ่จะเป็นเวลาราชการอาจจะคาดการณ์ได้ว่าการทำงานของปฏิบัตินี้จะเป็นระบบข้าราชการ
  
- 3. ข้อความการทวีต(Tweet text)
+ 3. **ข้อความการทวีต(Tweet text)**
   * แฮชแท็กที่เกิดขึ้นโดยส่วนใหญ่จะเกี่ยวข้องกับกองทัพ และพรรคอนาคตใหม่
 
 ![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20army%20IO%20twitter%20data%20analysis/image/wordclound_hashtags.png)![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20army%20IO%20twitter%20data%20analysis/image/hashtags.png)
@@ -48,4 +48,9 @@
   * การเมนชั่นจะเห็นว่าจะเมนชั่นถึงบัญชีของกองทัพเป็นส่วนใหญ่
 
 ![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20army%20IO%20twitter%20data%20analysis/image/wordcloud_mention.png)![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20army%20IO%20twitter%20data%20analysis/image/mention.png)
+
+  * ข้อความที่ทวีตส่วนใหญ่จะมีคำเกี่ยวกับกองทัพ และเป็นการให้กำลังใจ
+
+![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20army%20IO%20twitter%20data%20analysis/image/wordclound_tweet_text.png)![alt text](https://github.com/aaatou123/Wachira_Portfolio/blob/master/Thai%20army%20IO%20twitter%20data%20analysis/image/tweet_text.png)
+
 
